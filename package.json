@@ -1,0 +1,17 @@
+{
+  "name": "ms-service-template",
+  "version": "0.0.1",
+  "description": "POC for microservice pattern template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "frank.schmidt@redspace.com",
+  "dependencies": {
+    "fastify": "^4.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
